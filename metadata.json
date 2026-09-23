@@ -1,0 +1,6 @@
+{
+  "name": "BLACKWAVE - Entretenimento Digital",
+  "description": "Landing page cinematográfica e premium para a marca BLACKWAVE com planos, demonstração de dispositivos e conversão para WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
